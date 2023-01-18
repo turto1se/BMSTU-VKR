@@ -17,3 +17,4 @@
 * Создать репозиторий в GitHub / GitLab и разместить там код исследования. Оформить файл README.
 
 </p>
+link to google colab
